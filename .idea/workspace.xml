@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e96bd2c1-2c64-4196-abcb-17c8a4a8afd3" name="Changes" comment=".env deleted" />
+    <list default="true" id="e96bd2c1-2c64-4196-abcb-17c8a4a8afd3" name="Changes" comment=".env deleted">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_crud_better.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/api_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/Common_verfication.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/Common_verfication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/api_requests_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/api_requests_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/payload_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/utlis.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/utlis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/crud/test_create_booking.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/crud/test_create_booking.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Nilesh010101"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nilesh010101&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Nilesh010101/Py3xAPIAutomationFrameworkNilesh.git",
-    "accountId": "c56cc72b-8e5c-4d13-89f1-6e498022c23c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nilesh010101/Py3xAPIAutomationFrameworkNilesh.git&quot;,
+    &quot;accountId&quot;: &quot;c56cc72b-8e5c-4d13-89f1-6e498022c23c&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2klxDlVswhgHX7FViyiHE21Imm7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,13 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests in test_create_booking.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="CompoundRunConfigurationType" />
+        <option value="ShConfigurationType" />
+      </set>
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,12 +102,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723877656076</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".env deleted">
+      <option name="closed" value="true" />
+      <created>1723877742034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723877742034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add files again" />
     <MESSAGE value=".env deleted" />
     <option name="LAST_COMMIT_MESSAGE" value=".env deleted" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/crud/test_create_booking.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
